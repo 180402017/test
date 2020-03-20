@@ -2,7 +2,11 @@ rencana konten
 - Javascript
   * ES6
   * Framework
+    ^ Vue
+    ^ React
 - Struktur dasar
 - Php Frameworks
+  * Laravel
 - Interview
 - Vlog
+- Phiton
