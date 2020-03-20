@@ -2,7 +2,9 @@ rencana konten
 - Javascript
   * ES6
   * Framework
-- Struktur dasar
+    ^ Angular
+    ^ React
 - Php Frameworks
+  * Laravel
 - Interview
 - Vlog
